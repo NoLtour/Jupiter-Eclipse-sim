@@ -14,4 +14,4 @@ The models relatively simple but give's a bunch of intresting results.
 ### Some of the graphs it produced
 ![effect on eclipse time](https://cdn.discordapp.com/attachments/1061627987860140064/1176520237533909023/image.png?ex=656f2adb&is=655cb5db&hm=bd20394e3520a7055a8c540fe65ed286118b5595bdf0a6a3e5c4510cb5f5f178&)
 
-![configuration optimisation](https://cdn.discordapp.com/attachments/1061627987860140064/1176520325320687646/image.png?ex=656f2af0&is=655cb5f0&hm=cabb03a94d49c4455a43f17ceb8c6938dcf00c70e53cffac9539a50df7e1a7b0&)
+![configuration optimisation](https://cdn.discordapp.com/attachments/1045804761980608563/1048663762426675260/image.png?ex=656b743c&is=6558ff3c&hm=692f805d5709534ecb1c223cd0dc3b5da08f6d6d29ae3d9e774de3aebae0f61f&)
